@@ -42,7 +42,7 @@ console.log(curryAdd(10)(5)(2)); // 17
 
 ## ✅ Key Takeaway
 
--   Currying transforms a function with multiple parameters into a
-    sequence of functions that each take **one parameter**.
+-   Currying transforms a function with many parameters into a chain
+    of functions that each take **one parameter**.
 -   It is useful for **reusability, partial application, and cleaner
     functional programming** patterns.
